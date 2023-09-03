@@ -1,0 +1,12 @@
+*to check the file in particula folder:ls -ltra
+*create the doc we use:touch file_name;
+*vi file_name:it is used to insert content of the file;
+*to read the file:cat file_name;
+*to check the documentes in the file:ls -la
+*history in gitbash:history
+git hub:-
+*TO add the file to git hub:
+	git add .
+	git commit -m "some text"  
+	git push
+
